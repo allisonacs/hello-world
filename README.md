@@ -1,2 +1,4 @@
 # hello-world
-GitHub on boarding
+GitHub onboarding
+
+Allison Shaw is a designer.
